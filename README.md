@@ -26,6 +26,22 @@ Quimikey visa tornar o ensino de Química mais acessível e interativo, especial
 - Áudio e Libras para inclusão de alunos com deficiência visual e auditiva.
 - Teclas com Braile e impressão 3D dos Keycaps.
 - Software complementar para plataformas Web, Android e iOS.
+- **Integração com Micro:bit e Scratch**: Facilitando a utilização em diferentes laboratórios Maker.
+- **Desenvolvimento com ESP32 e Raspberry Pi**: Para integração com HDMI, áudio, e outras funcionalidades multimídia.
+
+## Desenvolvimento Inicial
+
+Na empolgação da equipe, optamos inicialmente pelo desenvolvimento do protótipo com **switch keys de teclados mecânicos**, no entanto, a ideia é criar protótipos utilizando **chaves táteis**, que são mais acessíveis e viáveis para reprodução em qualquer laboratório Maker.
+
+Na primeira versão do protótipo, utilizamos o **Arduino Mega**, mas já estamos trabalhando em uma versão com **Arduino Uno** e **expansores de I/O PCF 8574**, o que torna o projeto mais acessível e facilita a reprodução nos **laboratórios Maker**, que, no Brasil, utilizam amplamente o Arduino Uno como plataforma de desenvolvimento.
+
+### Integração com Micro:bit e Scratch
+
+Além disso, estou trabalhando em uma integração com o **Micro:bit**, outro dispositivo popular em laboratórios Maker, e com a plataforma de programação **Scratch**. Essa integração permitirá que os alunos programem de forma simples e visual, ampliando o alcance do projeto.
+
+### Planejamento de Modelos 3D e Conectividade
+
+Estou também desenvolvendo um **layout de uma PCB** utilizando **ESP32**, o que permitirá uma **integração com Raspberry Pi ou Orange Pi**. Essa mudança facilitará implementações com software, conexão HDMI, áudio, e abrirá portas para novas funcionalidades, como **realidade aumentada (AR)** e **áudio interativo**. Com essas novas opções de conectividade, as possibilidades são praticamente infinitas para expandir o Quimikey.
 
 ## Contribuições e Aprendizado
 
@@ -40,5 +56,3 @@ Este projeto está em constante evolução e gostaríamos de convidar outros edu
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/joseumtavares/Quimikey.git
-
-   
