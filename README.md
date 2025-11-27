@@ -6,7 +6,7 @@ Quimikey é um projeto que faz parte do programa Maker da UFSC e apoio do Rexlab
 
 Durante o estágio, fui convidado por meu colega Laércio, um dos membros fundadores do projeto, a colaborar no desenvolvimento de uma ferramenta para melhorar a experiência de aprendizado de Química. A ideia inicial era criar um teclado funcional de Química, mas conforme fui me integrando após a minha entrada no grupo de WhatsApp do **Projeto Maker UFSC** em 24 de setembro de 2025, passei a entender melhor os detalhes do projeto e comecei a colaborar ativamente no desenvolvimento de uma simulação online na plataforma **Wowki** - [Veja o projeto no Wowki](https://wokwi.com/projects/447527832061171713). Posteriormente, passei a contribuir diretamente na programação e no protótipo físico.
 
-Ao longo do desenvolvimento, o projeto passou por várias melhorias e ajustes, que foram aplicados tanto na parte de simulação quanto na implementação do protótipo real com Arduino. O nome "Quimikey" foi sugerido e aceito pela equipe, e a partir daí, o projeto evoluiu, tornando-se mais robusto e com planos para futuras atualizações, incluindo modelos 3D, realidade aumentada (AR), áudio para deficientes visuais, e até mesmo a inclusão de braile nos keycaps.
+Ao longo do desenvolvimento, o projeto passou por várias melhorias e ajustes, que foram aplicados tanto na parte de simulação quanto na implementação do protótipo real com Arduino. O nome "Quimikey" foi sugerido por mim e aceito pela equipe, e a partir daí, o projeto evoluiu, tornando-se mais robusto e com planos para futuras atualizações, incluindo modelos 3D, realidade aumentada (AR), áudio para deficientes visuais, e até mesmo a inclusão de braile nos keycaps.
 
 ## Membros da Equipe
 
@@ -14,7 +14,7 @@ Ao longo do desenvolvimento, o projeto passou por várias melhorias e ajustes, q
 - **Laércio Luiz Teixeira** – EEB Apolônio Ireno Cardoso
 - **Marcelo Sprícigo Peres** – EEB Araranguá
 - **Maria Aparecida Jeremias** – EEB Apolônio Ireno Cardoso
-- **José Ubirajara Moreira Tavares**: Desenvolvedor e responsável pela implementação da lógica de programação e protótipo na protoboard e montagem do primeiro protótipo
+- **José Ubirajara Moreira Tavares** - Cruzeiro do Sul : Desenvolvedor e responsável pela implementação da lógica de programação e protótipo na protoboard e montagem do primeiro protótipo
 
 ## Objetivo do Projeto
 
